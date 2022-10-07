@@ -1,0 +1,67 @@
+{
+  "clowns": [
+    {
+      "id": 1,
+      "name": "Buttons"
+    },
+    {
+      "id": 2,
+      "name": "Lollipop"
+    }
+  ],
+  "completedParties": [
+    {
+      "bookId": 1,
+      "clownId": 1,
+      "date_created": 1664462466153,
+      "id": 1
+    }
+  ],
+  "bookingRequests": [
+    {
+      "address": "328 Dandridge Drive",
+      "parentName": "CB",
+      "numChildren": "3",
+      "childName": "DB",
+      "reserveDate": "2022-09-29",
+      "reserveLength": "4",
+      "id": 1
+    },
+    {
+      "address": "200 Lane",
+      "parentName": "Seabie",
+      "numChildren": "2",
+      "childName": "DeeBee",
+      "reserveDate": "2022-09-30",
+      "reserveLength": "2",
+      "id": 2
+    },
+    {
+      "address": "100 Halo Lane",
+      "parentName": "John",
+      "numChildren": "3",
+      "childName": "Halo",
+      "reserveDate": "2022-10-01",
+      "reserveLength": "3",
+      "id": 3
+    },
+    {
+      "address": "100 Joe Mama Lane",
+      "parentName": "Joe",
+      "numChildren": "4",
+      "childName": "Mama",
+      "reserveDate": "2022-10-05",
+      "reserveLength": "3",
+      "id": 4
+    },
+    {
+      "address": "300 Street",
+      "parentName": "Yo",
+      "numChildren": "5",
+      "childName": "Mama",
+      "reserveDate": "2022-09-08",
+      "reserveLength": "3",
+      "id": 5
+    }
+  ]
+}
